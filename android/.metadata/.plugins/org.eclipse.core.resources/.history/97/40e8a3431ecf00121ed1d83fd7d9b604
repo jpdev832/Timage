@@ -1,0 +1,5 @@
+package com.staticvillage.timage.utils;
+
+public class ImageWriter {
+
+}
