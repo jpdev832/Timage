@@ -33,6 +33,4 @@ public class CommentData {
 		if(orientation.length == 3)
 			this.orientation = orientation;
 	}
-	
-	
 }
